@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Naomi! 👋
 
-<!--
-**NaomiHdRom/NaomiHdRom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Mechatronics Engineer 
+Facultad de Ingeniería UNAM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Logo](https://seeklogo.com/images/U/UNAM_INGENIERIA-logo-38271A0B79-seeklogo.com.png)
+
+## 🛠 Skills
+Javascript, HTML, CSS, Arduino
+
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marvelous-cannoli-5887bc.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naomi-estefan%C3%ADa-hern%C3%A1ndez-romero-30375624a)
