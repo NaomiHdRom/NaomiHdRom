@@ -11,6 +11,10 @@
 - Facultad de Ingeniería UNAM
 
 ## 🤖 Skills
+-  ROS2
+-  C#
+-  Python
+-  Excel
 -  Javascript
 -  HTML
 -  CSS
