@@ -9,15 +9,18 @@
 ## 🦖 About Me
 - Mechatronics Engineer 
 - Facultad de Ingeniería UNAM
+- Front-End Developer
+- Animatronics enthusiast
 
 ## 🤖 Skills
 -  ROS2
--  C#
 -  Python
 -  Excel
 -  Javascript
 -  HTML
 -  CSS
+-  C#
+-  React
 -  Arduino
 
 
