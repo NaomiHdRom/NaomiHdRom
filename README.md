@@ -27,6 +27,4 @@
 
 
 ![Logo](https://seeklogo.com/images/U/UNAM_INGENIERIA-logo-38271A0B79-seeklogo.com.png) 
-![Logo](https://tecnolochicas.mx/public/images/Home/logo-tecnolochicas.png)
-
 
